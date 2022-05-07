@@ -8,8 +8,8 @@ import (
 	context "context"
 	reflect "reflect"
 
+	zendesk "github.com/dereviankin-artur/go-zendesk/zendesk"
 	gomock "github.com/golang/mock/gomock"
-	zendesk "github.com/nukosuke/go-zendesk/zendesk"
 )
 
 // Client is a mock of API interface.

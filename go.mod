@@ -1,4 +1,4 @@
-module github.com/nukosuke/go-zendesk
+module github.com/dereviankin-artur/go-zendesk
 
 require (
 	github.com/golang/mock v1.6.0

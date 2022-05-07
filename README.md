@@ -24,7 +24,7 @@ package main
 import (
     "context"
 
-    "github.com/nukosuke/go-zendesk/zendesk"
+    "github.com/dereviankin-artur/go-zendesk/zendesk"
 )
 
 func main() {
